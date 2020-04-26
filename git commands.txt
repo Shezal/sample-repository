@@ -6,3 +6,5 @@ Stage change : git add .
 Changes cycle
 
 change(red) --> stage(green) --> commit --> push
+
+Hiiiiii
