@@ -1,0 +1,8 @@
+Download : git clone "url"
+Check current branch : git branch *branch(green)
+Check local changes : git status
+Stage change : git add .
+
+Changes cycle
+
+change(red) --> stage(green) --> commit --> push
