@@ -10,4 +10,6 @@ Changes cycle
 
 change(red) --> stage(green) --> commit --> push
 
-Hiiiiii
+Branching : 
+
+New branch :  git checkout -b "branch name"
