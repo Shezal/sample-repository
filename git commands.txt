@@ -7,6 +7,7 @@ Push(Upload) : git push origin "branch name"
 Pull(Update) : git pull origin "branch name"
 
 Changes cycle
-Kjljl
+
 change(red) --> stage(green) --> commit --> push
-Kjljjl
+
+Hiiiiii
